@@ -1,0 +1,6 @@
+praw
+tweepy
+pandas
+nltk
+transformers
+torch
