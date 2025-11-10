@@ -17,7 +17,7 @@ This repository collects social media data from Reddit and Twitter, processes it
 
 
 
-## Setup
+## Setup & Usage
 
 1. Clone this repository
 '''bash
